@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chnayder
+- 👋 Hi, I’m @Yassin Hajjej
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning how to code 
 
