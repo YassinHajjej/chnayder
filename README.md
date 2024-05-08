@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Yassin Hajjej
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning how to code 
+👋 Hi, I’m Yassin Hajjej, a passionate coder and lifelong learner based in [San Francisco].
 
-- 📫 How to reach me : ysnhajjej@gmail.com
+👀 I’m interested in web development, machine learning, and building innovative solutions to real-world problems.
 
-<!---
-Yassin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently honing my skills in JavaScript, Python, and React.js, while exploring the fascinating world of data science and artificial intelligence.
+
+📫 You can reach me at ysnhajjej@gmail.com. Let's connect and collaborate on exciting projects!
+
