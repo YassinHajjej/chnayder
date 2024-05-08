@@ -1,4 +1,4 @@
-👋 Hi, I’m Yassin Hajjej, a passionate coder and lifelong learner based in [San Francisco].
+👋 Hi, I’m Yassin Hajjej, a passionate coder and lifelong learner based in San Francisco.
 
 👀 I’m interested in web development, machine learning, and building innovative solutions to real-world problems.
 
